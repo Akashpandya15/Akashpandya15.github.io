@@ -69,13 +69,13 @@
 </body>
 </html>
 
-# Minimal Research Theme :microscope:
+# AKASH PANDYA 
 
-Just a plain, simple and elegant one-page theme for research/academia.
+Project associate at Charusat University 
+link for ggole insta and all
 
-## Just turn the knobs!
-* For those who just want a quick website, just make changes to style.js.
-* For those who know web dev, the browser is yours, play around.
+## Background
+I have acquired my masters of engineering degree in Mechatronics Engineering. 
 
 ## Examples
 These are some examples of how you can get creative.
