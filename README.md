@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,6 +69,7 @@
 # AKASH PANDYA 
 
 Project associate at Charusat University 
+
 link for ggole insta and all
 
 ## Background
