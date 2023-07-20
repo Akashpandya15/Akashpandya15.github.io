@@ -1,9 +1,5 @@
-<p align=”center”>
-AKASH PANDYA 
-</p>
-Project associate at Charusat University 
-
-
+# AKASH PANDYA
+Project associate at Charusat Space research center  
 
 ## Background
 I have acquired my master of engineering degree in Mechatronics Engineering. 
