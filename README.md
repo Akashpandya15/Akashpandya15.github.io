@@ -1,6 +1,6 @@
-
-# AKASH PANDYA 
-
+<p align=”center”>
+AKASH PANDYA 
+</p>
 Project associate at Charusat University 
 
 
