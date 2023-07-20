@@ -57,6 +57,15 @@
   
   <section>
     <h1>Welcome to My Website</h1>
+# AKASH PANDYA 
+
+Project associate at Charusat University 
+
+link for ggole insta and all
+
+## Background
+I have acquired my masters of engineering degree in Mechatronics Engineering. 
+
     <p>This is the content of my website. Feel free to edit and add your own content here.</p>
   </section>
   
